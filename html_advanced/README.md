@@ -63,7 +63,7 @@ Welcome!
 
 <br>
 
-### `Techium` - Project overview
+### `Techium` - Project overview:
 
 <br>
 <br>
@@ -80,7 +80,7 @@ No `CSS`, no styling - don’t worry, the final page will be “ugly” it’s n
 <br>
 <br>
 
-### Sitemap of the project
+### Sitemap of the project:
 
 <br>
 <br>
@@ -90,7 +90,7 @@ No `CSS`, no styling - don’t worry, the final page will be “ugly” it’s n
 <br>
 <br>
 
-### Wireframe of the project
+### Wireframe of the project:
 
 <br>
 <br>
