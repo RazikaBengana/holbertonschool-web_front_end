@@ -193,7 +193,7 @@ No `CSS`, no styling - don’t worry, the final page will be “ugly” it’s n
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -294,7 +294,7 @@ No `CSS`, no styling - don’t worry, the final page will be “ugly” it’s n
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>

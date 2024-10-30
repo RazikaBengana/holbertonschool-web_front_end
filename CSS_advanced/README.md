@@ -102,7 +102,7 @@ This project has been created by **[Holberton School](https://www.holbertonschoo
 <br>
 <br>
 
-```yaml
+```html
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -563,7 +563,7 @@ This project has been created by **[Holberton School](https://www.holbertonschoo
 
 <!-- ------------------------------------------------------------------------------------------------- -->
 
-## :memo: Learning objectives
+## :memo: Learning Objectives
 
 <br>
 
@@ -678,7 +678,7 @@ General
 
 <br>
 
-**${\color{blue}Razika \space Bengana}$**
+<img src="https://img.shields.io/badge/Razika%20Bengana-darkblue" alt="Razika Bengana" width="120">
 
 <br>
 <br>
